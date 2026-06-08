@@ -26,7 +26,7 @@
 
 ## 🎯 Overview
 
-**Octagon Insights** is a machine learning project developed for the **AIN311 — Introduction to Machine Learning** course at Hacettepe University. The project tackles a real-world sports analytics problem:
+**Octagon Insights** is a machine learning project developed for the **Introduction to Machine Learning** course at Hacettepe University. The project tackles a real-world sports analytics problem:
 
 > *Given two MMA fighters, who is more likely to win in a hypothetical matchup?*
 
@@ -101,8 +101,8 @@ print(predict_winner("Alex Pereira", "Jon Jones", fighter_stats, chosen_model))
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/ozgun-koca/AIN311-ML--Project-Octagon-Insights.git
-   cd AIN311-ML--Project-Octagon-Insights
+   git clone https://github.com/ozgun-koca/Octagon-Insights.git
+   cd Octagon-Insights
    ```
 
 2. **Install dependencies**
@@ -132,7 +132,8 @@ print(predict_winner("Alex Pereira", "Jon Jones", fighter_stats, chosen_model))
 
 ## 👥 Authors
 
-This project was developed as a team for **AIN311 — Introduction to Machine Learning** at Hacettepe University.
+This project presents an end-to-end machine learning pipeline for predicting MMA fight outcomes from historical fighter statistics. It covers data preprocessing, feature engineering, exploratory analysis, model training, hyperparameter tuning, evaluation, and technical reporting.
+
 
 - **Özgün Serergün Koca** — [GitHub](https://github.com/ozgun-koca) · ozgunserergun@gmail.com
 - **Kağan Canerik** — [GitHub](https://github.com/KaganCanerik)
